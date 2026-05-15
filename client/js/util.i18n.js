@@ -143,7 +143,7 @@ const LANGUAGES = {
 			
 			// Login and main UI
 			'ui.enter_node': '进入聊天组',
-			'ui.username': '用&nbsp;&nbsp;户&nbsp;&nbsp;名',
+			'ui.username': '用户名',
 			'ui.node_name': '聊天组名称',
 			'ui.node_password': '密码',
 			'ui.optional': '（可选）',
